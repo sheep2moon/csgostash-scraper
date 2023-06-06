@@ -1,0 +1,46 @@
+{
+    "urls": {
+        "pistols": [
+            { "url": "https://csgostash.com/weapon/CZ75-Auto", "title": "CZ75-Auto", "img_src": "https://csgostash.com/img/weapons/50px/cz75-auto.png?id=e98713d045fe8f286f82feb8e5f738f1" },
+            { "url": "https://csgostash.com/weapon/Desert+Eagle", "title": "Desert Eagle", "img_src": "https://csgostash.com/img/weapons/50px/desert_eagle.png?id=296ba0537798c8d01688b810331bff72" },
+            { "url": "https://csgostash.com/weapon/Dual+Berettas", "title": "Dual Berettas", "img_src": "https://csgostash.com/img/weapons/50px/dual_berettas.png?id=686b70f70c55df0ad83c8e86a79c7285" },
+            { "url": "https://csgostash.com/weapon/Five-SeveN", "title": "Five-SeveN", "img_src": "https://csgostash.com/img/weapons/50px/five-seven.png?id=113b6c875c9e5789086d77a13a270ac0" },
+            { "url": "https://csgostash.com/weapon/Glock-18", "title": "Glock-18", "img_src": "https://csgostash.com/img/weapons/50px/glock-18.png?id=f797c263dece95782a333f94613f0c77" },
+            { "url": "https://csgostash.com/weapon/P2000", "title": "P2000", "img_src": "https://csgostash.com/img/weapons/50px/p2000.png?id=eb0a9549104f2cb49d76b9cdbdfdced6" },
+            { "url": "https://csgostash.com/weapon/P250", "title": "P250", "img_src": "https://csgostash.com/img/weapons/50px/p250.png?id=e83f91aed018c0aae4ffbd99733d6b68" },
+            { "url": "https://csgostash.com/weapon/R8+Revolver", "title": "R8 Revolver", "img_src": "https://csgostash.com/img/weapons/50px/r8_revolver.png?id=81cf60dffee76b114dfdecf6bc3b462f" },
+            { "url": "https://csgostash.com/weapon/Tec-9", "title": "Tec-9", "img_src": "https://csgostash.com/img/weapons/50px/tec-9.png?id=351bc64fa2ff5db7ce737571996c5a12" },
+            { "url": "https://csgostash.com/weapon/USP-S", "title": "USP-S", "img_src": "https://csgostash.com/img/weapons/50px/usp-s.png?id=af0de75012384b6dd9e72414a5f82a1e" }
+        ],
+        "rifles": [
+            { "url": "https://csgostash.com/weapon/AK-47", "title": "AK-47", "img_src": "https://csgostash.com/img/weapons/50px/ak-47.png?id=18d8c10145c6aa7f792098aacd9d3afd" },
+            { "url": "https://csgostash.com/weapon/AUG", "title": "AUG", "img_src": "https://csgostash.com/img/weapons/50px/aug.png?id=51d10f61543c5463dd0ae0ed0f394d9d" },
+            { "url": "https://csgostash.com/weapon/AWP", "title": "AWP", "img_src": "https://csgostash.com/img/weapons/50px/awp.png?id=41ff15893fd4141e189379db3fb51086" },
+            { "url": "https://csgostash.com/weapon/FAMAS", "title": "FAMAS", "img_src": "https://csgostash.com/img/weapons/50px/famas.png?id=6e63359fd3f645895d7535504778bd54" },
+            { "url": "https://csgostash.com/weapon/G3SG1", "title": "G3SG1", "img_src": "https://csgostash.com/img/weapons/50px/g3sg1.png?id=02e03e880aea992d4cfe6fd5e30697a2" },
+            { "url": "https://csgostash.com/weapon/Galil+AR", "title": "Galil AR", "img_src": "https://csgostash.com/img/weapons/50px/galil_ar.png?id=fecdacfcd9041bd2479a297009c83454" },
+            { "url": "https://csgostash.com/weapon/M4A1-S", "title": "M4A1-S", "img_src": "https://csgostash.com/img/weapons/50px/m4a1-s.png?id=11a15e14fb0c39a05992905c03f50e69" },
+            { "url": "https://csgostash.com/weapon/M4A4", "title": "M4A4", "img_src": "https://csgostash.com/img/weapons/50px/m4a4.png?id=62649da2290a280aff51d48fe589922b" },
+            { "url": "https://csgostash.com/weapon/SCAR-20", "title": "SCAR-20", "img_src": "https://csgostash.com/img/weapons/50px/scar-20.png?id=5913ecc43cca089a04bd2bfe1bb2e50c" },
+            { "url": "https://csgostash.com/weapon/SG+553", "title": "SG 553", "img_src": "https://csgostash.com/img/weapons/50px/sg_553.png?id=2b65610339185a402e465adc35e5bb8f" },
+            { "url": "https://csgostash.com/weapon/SSG+08", "title": "SSG 08", "img_src": "https://csgostash.com/img/weapons/50px/ssg_08.png?id=2e2b8d71ba9949e192739aa92de353df" }
+        ],
+        "smgs": [
+            { "url": "https://csgostash.com/weapon/MAC-10", "title": "MAC-10", "img_src": "https://csgostash.com/img/weapons/50px/mac-10.png?id=e989a87ce481808b1cca6d88bb969610" },
+            { "url": "https://csgostash.com/weapon/MP5-SD", "title": "MP5-SD", "img_src": "https://csgostash.com/img/weapons/50px/mp5-sd.png?id=837afb49b1d93522fc563ebe48b63e4d" },
+            { "url": "https://csgostash.com/weapon/MP7", "title": "MP7", "img_src": "https://csgostash.com/img/weapons/50px/mp7.png?id=4f5536f1046ea94fa7916528c1513044" },
+            { "url": "https://csgostash.com/weapon/MP9", "title": "MP9", "img_src": "https://csgostash.com/img/weapons/50px/mp9.png?id=0318e32a9ab8ce3cc6b3aee0e962a9e6" },
+            { "url": "https://csgostash.com/weapon/PP-Bizon", "title": "PP-Bizon", "img_src": "https://csgostash.com/img/weapons/50px/pp-bizon.png?id=3a22b17637bf56ee4f2c10fa51eef3b3" },
+            { "url": "https://csgostash.com/weapon/P90", "title": "P90", "img_src": "https://csgostash.com/img/weapons/50px/p90.png?id=29565ca1d9103d5b893af935ad6ca2a5" },
+            { "url": "https://csgostash.com/weapon/UMP-45", "title": "UMP-45", "img_src": "https://csgostash.com/img/weapons/50px/ump-45.png?id=2281fa49f4441c275471c625cc60f8a7" }
+        ],
+        "heavy": [
+            { "url": "https://csgostash.com/weapon/MAG-7", "title": "MAG-7", "img_src": "https://csgostash.com/img/weapons/50px/mag-7.png?id=9b300897396ecf77b65484ca5cad470a" },
+            { "url": "https://csgostash.com/weapon/Nova", "title": "Nova", "img_src": "https://csgostash.com/img/weapons/50px/nova.png?id=ed2cdde184bb60dba4369961f5dd2845" },
+            { "url": "https://csgostash.com/weapon/Sawed-Off", "title": "Sawed-Off", "img_src": "https://csgostash.com/img/weapons/50px/sawed-off.png?id=29113fb31c1a12317bfa4036cfd52f58" },
+            { "url": "https://csgostash.com/weapon/XM1014", "title": "XM1014", "img_src": "https://csgostash.com/img/weapons/50px/xm1014.png?id=f9cec969bf81f3630b45c85c866348c1" },
+            { "url": "https://csgostash.com/weapon/M249", "title": "M249", "img_src": "https://csgostash.com/img/weapons/50px/m249.png?id=cfd23b3dbbf2e87f8dd6938d823d0b8d" },
+            { "url": "https://csgostash.com/weapon/Negev", "title": "Negev", "img_src": "https://csgostash.com/img/weapons/50px/negev.png?id=bf9b06c01aa7320e090cb27a1cf33904" }
+        ]
+    }
+}

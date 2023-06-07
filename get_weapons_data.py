@@ -21,18 +21,15 @@ def getPageWeapons(page):
 def getWeaponsData(links_data):
     weapons_data = {}
     for weapon_category in links_data:
-        weapons_data[weapon_category] = []
+        weapons_data[weapon_category] = {}
         for weapon_link in links_data[weapon_category]:
             page = get(weapon_link["url"])
             page_weapons = getPageWeapons(page)
-            weapons_data[weapon_category].append(
-                {
-                    weapon_link["title"]: {
-                        "img_src": weapon_link["img_src"],
-                        "data": page_weapons,
-                    }
-                }
-            )
+            weapons_data[weapon_category][weapon_link["title"]] = {
+                "img_src": weapon_link["img_src"],
+                "data": page_weapons,
+            }
+
             print(weapon_link["title"] + "collected")
     return weapons_data
 
